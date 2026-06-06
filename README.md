@@ -1,4 +1,4 @@
-# autoskip
+# autoskipper
 automatically skips doors in R:LDR
 
 ## controls
